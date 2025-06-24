@@ -55,9 +55,6 @@ Wireshark adalah alat yang sangat kuat untuk menganalisis dan memecahkan masalah
 
 Terus eksplorasi dan pastikan Anda memanfaatkan fitur-fitur Wireshark yang lebih canggih, seperti analisis paket tingkat lanjut dan penggunaan filter kompleks untuk masalah jaringan yang lebih mendalam.
 
-## Lisensi
-Tutorial ini tersedia di bawah lisensi MIT. Anda bebas untuk menggunakan, menyalin, dan mendistribusikan tutorial ini sesuai kebutuhan.
-
 ## Kontak
 Jika Anda memiliki pertanyaan atau umpan balik tentang tutorial ini, jangan ragu untuk menghubungi saya di:
 - LinkedIn: [linkedin.com/in/viqramwataf](https://www.linkedin.com/in/viqramwataf)
